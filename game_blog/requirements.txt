@@ -51,4 +51,4 @@ uvloop==0.16.0
 watchfiles==0.15.0
 websockets==10.3
 wrapt==1.14.1
-gunicorn==19.9.0
+gunicorn==19.8.1
